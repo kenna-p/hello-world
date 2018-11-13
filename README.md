@@ -14,6 +14,9 @@ In the words of me:
 
 Only real OGs remember [NeoPets](http://www.neopets.com)
 
+I think you should use an
+`<addr>` element here instead.
+
 grocery list:
 - [x] eggs
 - [ ] self-worth
