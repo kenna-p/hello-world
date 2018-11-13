@@ -7,7 +7,7 @@ why I should get a puppy | why I shouldn't get a puppy
 -------------------------|-----------------------------
 they're cute | you're broke
 
-**bold** -italics- **-bold italics-** ~strikethrough~
+**bold** _italics_ **_bold italics_** ~strikethrough~
 
 In the words of me:
 > yeah
