@@ -22,11 +22,6 @@ Only real OGs remember [NeoPets](http://www.neopets.com)
 I think you should use an
 `<addr>` element here instead.
 
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
 
 grocery list:
 - [x] eggs
