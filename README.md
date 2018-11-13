@@ -20,8 +20,8 @@ grocery list:
 - [x] bread
 
 1. wish I was given instructions
-   _ but...
-     _ here we are
+   - but...
+     - here we are
      
 This is \*intense\*
 
