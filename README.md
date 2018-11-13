@@ -12,7 +12,7 @@ they're cute | you're broke
 In the words of me:
 > yeah
 
-Only real OGs remember [NeoPets](www.neopets.com)
+Only real OGs remember [NeoPets](http://www.neopets.com)
 
 grocery list:
 - [x] eggs
